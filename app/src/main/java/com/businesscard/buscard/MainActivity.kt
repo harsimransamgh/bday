@@ -48,9 +48,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-//                    BackgroundImage()
-//                    Logo(name = "Atharv Mahajan", role = "Android Developer Extraordinaire")
-//                    footer(phoneNumber = "+1 (587) 555-5555", socialMediaHandle = "@Atharv.ca", emailID ="Atharv@Android.com" )
+
                     Logo(name = "Harsimran Smagh", role = "Android Developer Extraordinaire")
                     footer(phoneNumber = "+1 (403) 544-2255", socialMediaHandle = "@simran.ca", emailID ="Simran@Android.com" )
                 }
